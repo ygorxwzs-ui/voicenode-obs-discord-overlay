@@ -1,0 +1,6 @@
+{
+  "name": "Discord OBS Voice Overlay Customizer",
+  "description": "A highly customizable, lightweight generator to create beautiful, animated voice overlays for OBS using Discord Streamkit, allowing custom avatars and real-time speaking animations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
